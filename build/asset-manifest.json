@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/devaunivgit/production/static/css/main.5f361e03.chunk.css",
+    "main.js": "/devaunivgit/production/static/js/main.e00295a2.chunk.js",
+    "main.js.map": "/devaunivgit/production/static/js/main.e00295a2.chunk.js.map",
+    "runtime-main.js": "/devaunivgit/production/static/js/runtime-main.0e340dac.js",
+    "runtime-main.js.map": "/devaunivgit/production/static/js/runtime-main.0e340dac.js.map",
+    "static/js/2.7b022e0d.chunk.js": "/devaunivgit/production/static/js/2.7b022e0d.chunk.js",
+    "static/js/2.7b022e0d.chunk.js.map": "/devaunivgit/production/static/js/2.7b022e0d.chunk.js.map",
+    "index.html": "/devaunivgit/production/index.html",
+    "precache-manifest.c3bf8ce863c5ccc967c846af23a3e9e3.js": "/devaunivgit/production/precache-manifest.c3bf8ce863c5ccc967c846af23a3e9e3.js",
+    "service-worker.js": "/devaunivgit/production/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/devaunivgit/production/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.7b022e0d.chunk.js.LICENSE.txt": "/devaunivgit/production/static/js/2.7b022e0d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0e340dac.js",
+    "static/js/2.7b022e0d.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.e00295a2.chunk.js"
+  ]
+}
